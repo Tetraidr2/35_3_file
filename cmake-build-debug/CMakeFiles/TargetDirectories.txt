@@ -1,0 +1,3 @@
+D:/Progect/Progect/C++/skillBox/35_3_file/cmake-build-debug/CMakeFiles/35_3_file.dir
+D:/Progect/Progect/C++/skillBox/35_3_file/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Progect/Progect/C++/skillBox/35_3_file/cmake-build-debug/CMakeFiles/rebuild_cache.dir
